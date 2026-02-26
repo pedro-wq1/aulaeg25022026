@@ -11,3 +11,6 @@ O usuário pode alterar nome, foto e dados pessoais.
 
 ### RF04 — Cadastro de novos usuários
 O sistema deve permitir que novos usuários sejam criados.
+
+### RF05 - Medir tamanho da Bola
+É necessário criar um sistema para medir o tamanho da bola.
